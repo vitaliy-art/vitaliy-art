@@ -43,3 +43,7 @@ JavaScript               2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <!--END_SECTION:waka-->
+
+### My Code::Stats profile
+
+[![Vitaliy's code::stats stats](https://codestats-readme.avior.me/api?username=artemov_vitaliy&show_icons)](https://github.com/Aviortheking/codestats-readme)
