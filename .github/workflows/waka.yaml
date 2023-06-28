@@ -16,14 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_OS: "True"
           SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LOC_CHART: "True" 
           SYMBOL_VERSION: 3
           SHOW_COMMIT: "True"
