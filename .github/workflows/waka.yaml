@@ -26,3 +26,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LOC_CHART: "False" 
           SYMBOL_VERSION: 3
+          SHOW_COMMIT: "False"
