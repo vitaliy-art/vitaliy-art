@@ -5,6 +5,8 @@
 ### My WakaTime stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C972%20hrs%2054%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
