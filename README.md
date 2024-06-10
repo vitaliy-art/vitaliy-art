@@ -11,7 +11,7 @@
 
 > 📦 4.2 kB Used in GitHub's Storage 
  > 
-> 🏆 370 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
