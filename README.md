@@ -5,11 +5,13 @@
 ### My WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C518%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.9 kB Used in GitHub's Storage 
+> 📦 5.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 725 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
