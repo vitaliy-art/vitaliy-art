@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 7.2 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
  > 
-> 🏆 781 Contributions in the Year 2024
+> 🏆 794 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,6 +19,16 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               10 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.42 % 
+Bash                     2 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.14 % 
+JSON                     2 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.89 % 
+Markdown                 1 min               ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.55 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
