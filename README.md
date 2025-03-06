@@ -5,13 +5,13 @@
 ### My WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C910%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C919%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 8.2 kB Used in GitHub's Storage 
+> 📦 8.3 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2025
+> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,6 +19,17 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue.js                   9 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.09 % 
+TypeScript               6 hrs 27 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.02 % 
+Python                   1 hr 53 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.18 % 
+JSON                     1 hr 22 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.99 % 
+YAML                     1 hr 7 mins         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.86 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
