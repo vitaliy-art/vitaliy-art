@@ -5,7 +5,7 @@
 ### My WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C196%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C198%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -19,17 +19,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      9 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.89 % 
-JSON                     2 hrs 31 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.24 % 
-YAML                     1 hr 25 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.05 % 
-HTML                     1 hr 22 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.81 % 
-Other                    48 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.58 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
